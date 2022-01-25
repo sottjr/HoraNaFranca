@@ -1,0 +1,9 @@
+body {
+    padding: 20px;
+    margin: 20px
+}
+img {
+    float: left;
+    height: 350px;
+    width: 350px;
+}
